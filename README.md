@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nextjs-tailwind-app-presentation-page.svg)](#) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nextjs-tailwind-app-presentation-page.svg)](#)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/741/original/material-tailwind-react-application-template-thumbnail.jpg?1697629129)
+![Image](#)
 
 Get OTP Code, is a app for get OTP Code, Caller ID Bank Number
 
