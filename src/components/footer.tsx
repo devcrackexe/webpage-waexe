@@ -13,16 +13,16 @@ export function Footer() {
           <div className="text-center md:text-left">
             <Typography
               as="a"
-              href="https://t.me/devcrackpy"
+              href="https://waexe.dev/home"
               target="_blank"
               variant="h5"
               color="white"
               className="mb-4"
             >
-              Dashboard — OTP Get App 
+              We are . E X E
             </Typography>
             <Typography color="white" className="mb-12 font-normal">
-              OTP app, get a code OTP, ByPass 3D, Paypal ByPass, E-MAIL OTP, ID Bank Number, Caller Spoofing & more functions...
+              Desarrollo & Diseño Web/App
             </Typography>
             <ul className="flex flex-wrap items-center justify-center md:justify-start">
               {LINKS.map((link, idx) => (
@@ -43,7 +43,7 @@ export function Footer() {
           </div>
           <div className="mt-8 w-full md:mt-0 md:w-auto">
             <Typography variant="h6" color="white" className="mb-3">
-              Get the OTP App
+              Contact us
             </Typography>
             <div className="flex flex-col gap-2">
               <Button
@@ -57,7 +57,7 @@ export function Footer() {
                   className="-mt-0.5 mr-2 h-6 w-6"
                   alt="ios"
                 />
-                App Store
+                Whatsapp
               </Button>
               <Button
                 color="white"
@@ -70,7 +70,7 @@ export function Footer() {
                   className="-mt-0.5 mr-2 h-6 w-6"
                   alt="ios"
                 />
-                Google Play
+                Telegram
               </Button>
             </div>
           </div>
@@ -80,13 +80,13 @@ export function Footer() {
             color="white"
             className="text-center font-normal opacity-75"
           >
-            &copy; {CURRENT_YEAR} Developed{" "}
-            <a href="https://t.me/devcrackpy" target="_blank">
-              Dev Crack
+            &copy; {CURRENT_YEAR} We are{" "}
+            <a href="https://t.me/exe_hk" target="_blank">
+              . E X E
             </a>{" "}
             by{" "}
-            <a href="https://t.me/exe_hk" target="_blank">
-              Team . E X E 
+            <a href="https://t.me/devcrackpy" target="_blank">
+              Dev Crack
             </a>
             .
           </Typography>

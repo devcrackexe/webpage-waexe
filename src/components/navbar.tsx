@@ -68,22 +68,22 @@ export function Navbar() {
       <div className="container mx-auto flex items-center justify-between">
         <Typography
           as="a"
-          href="https://www.material-tailwind.com"
+          href="https://waexe.dev/home"
           target="_blank"
           variant="h6"
           color={isScrolling ? "gray" : "white"}
         >
-          Dashboard — . E X E
+          We are . E X E
         </Typography>
         <ul
           className={`ml-10 hidden items-center gap-6 lg:flex ${
             isScrolling ? "text-gray-900" : "text-white"
           }`}
         >
-          <NavItem>Home</NavItem>
-          <NavItem>About Us</NavItem>
-          <NavItem>Contact Us</NavItem>
-          <NavItem href="https://www.material-tailwind.com/docs/react/installation">
+          <NavItem>Inicio</NavItem>
+          <NavItem>Conocenos</NavItem>
+          <NavItem>Contáctanos</NavItem>
+          <NavItem href="https://waexe.dev/docs">
             Docs
           </NavItem>
         </ul>
@@ -109,9 +109,9 @@ export function Navbar() {
           >
             <i className="fa-brands fa-instagram text-base" />
           </IconButton>
-          <a href="https://www.material-tailwind.com/blocks" target="_blank">
+          <a href="https://waexe.dev/status" target="_blank">
             <Button color={isScrolling ? "gray" : "white"} size="sm">
-              Blocks
+              Status
             </Button>
           </a>
         </div>
@@ -131,10 +131,10 @@ export function Navbar() {
       <Collapse open={open}>
         <div className="container mx-auto mt-4 rounded-lg border-t border-blue-gray-50 bg-white px-6 py-5">
           <ul className="flex flex-col gap-4 text-blue-gray-900">
-            <NavItem>Home</NavItem>
-            <NavItem>About Us</NavItem>
-            <NavItem>Contact Us</NavItem>
-            <NavItem href="https://www.material-tailwind.com/docs/react/installation">
+            <NavItem>Inicio</NavItem>
+            <NavItem>Conocenos</NavItem>
+            <NavItem>Contáctanos</NavItem>
+            <NavItem href="https://waexe.dev/docs">
               Docs
             </NavItem>
           </ul>
@@ -148,9 +148,9 @@ export function Navbar() {
             <IconButton variant="text" color="gray" size="sm">
               <i className="fa-brands fa-instagram text-base" />
             </IconButton>
-            <a href="https://www.material-tailwind.com/blocks" target="_blank">
+            <a href="https://waexe.dev/status" target="_blank">
               <Button color="gray" size="sm" className="ml-auto">
-                Blocks
+                Status
               </Button>
             </a>
           </div>

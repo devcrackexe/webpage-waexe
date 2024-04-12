@@ -10,9 +10,9 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Dashboard — OTP Admin",
+  title: "We are . E X E",
   description:
-    "GET OTP CODE WITH US APP.",
+    "Development & Design Web/App",
 };
 
 export default function RootLayout({
