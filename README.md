@@ -1,6 +1,7 @@
 # [DASHBOARD — OTP App](http://ahidroid.dev/shit) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](#)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nextjs-tailwind-app-presentation-page.svg)](#) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nextjs-tailwind-app-presentation-page.svg)](#)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
+[![Status WA EXE](https://uptime.betterstack.com/status-badges/v3/monitor/1526n.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ![Image](#)
 
