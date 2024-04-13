@@ -39,8 +39,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- [Live Preview](#)
-- [Download Page](https://waexe.dev/download)
+- [Download APP](https://waexe.dev/download)
 - Documentation is [here](https://waexe.dev/docs)
 - [License Agreement](https://waexe.dev/license)
 - [Support](https://t.me/devcrackpy)
