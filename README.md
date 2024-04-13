@@ -3,28 +3,24 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 [![Status WA EXE](https://uptime.betterstack.com/status-badges/v3/monitor/1526n.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
-![Image](#)
-
-Get OTP Code, is a app for get OTP Code, Caller ID Bank Number
+» Development & Design Web/Apps sites
 
 **Documentation built by Developers**
 
 Each element is well presented in very complex documentation.
 
-You can read more about the [documentation here](https://ahidroid.dev/installOTP).
+You can read more about the [documentation here](https://waexe.dev/docs).
 
 **HELPFUL LINKS**
 
-- View [Github Repository](#)
-- Check [FAQ Page](#)
-
-## [Demo](#)
+- View [Github Repository](https://github.com/devcrackexe/webpage-waexe)
+- Check [FAQ Page](https://waexe.dev/faqs)
 
 ## Quick start
 
 Quick start options:
 
-- Download from [. E X E](#).
+- Download from [We are . E X E](https://waexe.dev/downloads).
 
 ## Terminal Commands
 
@@ -33,7 +29,7 @@ Quick start options:
 
 ## Documentation
 
-The documentation for the Material Dashboard is hosted at our [website](https://ahidroid.dev/documentation).
+The documentation for the Material Dashboard is hosted at our [website](https://waexe.dev/docs).
 
 ## Browser Support
 
@@ -44,25 +40,23 @@ At present, we officially aim to support the last two versions of the following 
 ## Resources
 
 - [Live Preview](#)
-- [Download Page](https://ahidroid.dev/download)
-- Documentation is [here](https://ahidroid.dev/documentation)
-- [License Agreement](https://ahidroid.dev/license)
+- [Download Page](https://waexe.dev/download)
+- Documentation is [here](https://waexe.dev/docs)
+- [License Agreement](https://waexe.dev/license)
 - [Support](https://t.me/devcrackpy)
-- Issues: [Github Issues Page](#)
-- [Nepcha Analytics](#) - Analytics tool for your website
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://t.me/exe_hk) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://waexe.dev/contact) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2023 [Team . E X E](https://ahidroid.dev/about-us)
-- . E X E [license](https://t.me/exe_hk)
+- Copyright 2024 [We are . E X E](https://waexe.dev/about-us)
+- We are . E X E [license](https://waexe.dev/license)
 
 ## Useful Links
 
-- [More products](https://t.me/exe_hk) from Dev Crack & Team . E X E
+- [More products](https://t.me/exe_hk) from Dev Crack & We are . E X E
 
 - [Tutorials](https://t.me/exe_hk/media)
 
@@ -72,10 +66,10 @@ If you have questions or need help integrating the product please [contact us](h
 
 ##### Social Media
 
-Twitter: <https://twitter.com/team_exe>
+Twitter: <https://twitter.com/wa.exe>
 
-Facebook: <https://www.facebook.com/team_exe>
+Facebook: <https://www.facebook.com/waexe.dev>
 
-Instagram: <https://instagram.com/team_exe>
+Instagram: <https://instagram.com/wa.exe>
 
-Discord: <https://discord.com/>
+Discord: <https://discord.gg/pUbF8JeC>
