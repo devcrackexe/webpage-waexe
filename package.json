@@ -1,10 +1,10 @@
 {
-  "name": "scammania-control-panel",
-  "version": "1.0.0",
+  "name": "we-are-exe",
+  "version": "2.1.0",
   "private": true,
   "author": "DevCrack",
-  "license": "See license in https://t.me/devcrackpy / https://t.me/exe_hk",
-  "homepage": "https://ahidroid.dev/shit",
+  "license": "See license in https://waexe.dev/license",
+  "homepage": "https://waexe.dev/home",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
